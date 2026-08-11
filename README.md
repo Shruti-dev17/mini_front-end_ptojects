@@ -1,2 +1,3 @@
 # Mini_front-end_ptojects
-small/incomplete front end projects
+* small/incomplete front end projects
+* Projects in this folder can be made with any language.... 
