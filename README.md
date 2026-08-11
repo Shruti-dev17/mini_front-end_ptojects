@@ -1,2 +1,2 @@
-* mini Frontend projects that still needs to be worked on
+* Frontend projects that still needs to be worked on
 * Projects in this folder can be made with any language.... 
